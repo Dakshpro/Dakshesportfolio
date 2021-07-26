@@ -386,12 +386,6 @@ section .title::after {
 .skills-content .right .appdevelopment::before {
   width: 70%;
 }
-/*  hobbies styling */
-.hobbies,
-.teams {
-  color: #fff;
-  background: #111;
-}
 /* teams section styling */
 .teams .title::after {
   content: "";
